@@ -14,7 +14,7 @@ stage("test"){
      echo'testing the application ...'
 }
     }
-                                    I
+                                    
        
 stage("deploy"){
     steps{  
